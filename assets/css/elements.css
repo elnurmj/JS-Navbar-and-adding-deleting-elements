@@ -1,0 +1,17 @@
+
+.elements-box {
+    position: relative;
+}
+
+.fa-times {
+    position: absolute;
+    font-size: 18px;
+    top: 13px;
+    right: 10px;
+}
+
+.fa-times:hover {
+    cursor: pointer;
+    color: red;
+    transition: all 0.3s;
+} 
